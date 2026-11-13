@@ -1,0 +1,31 @@
+{
+  "status": 200,
+  "url": "https://books.toscrape.com/",
+  "mode": "browser",
+  "discovered": 20,
+  "images": [
+    {
+      "url": "https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg",
+      "alt": "A Light in the Attic",
+      "file": "C:\\Users\\AurélienGarban\\test scrapping\\runs\\browser-test_files\\image-001.jpg",
+      "bytes": 9876,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg",
+      "alt": "Tipping the Velvet",
+      "file": "C:\\Users\\AurélienGarban\\test scrapping\\runs\\browser-test_files\\image-002.jpg",
+      "bytes": 7095,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg",
+      "alt": "Soumission",
+      "file": "C:\\Users\\AurélienGarban\\test scrapping\\runs\\browser-test_files\\image-003.jpg",
+      "bytes": 4062,
+      "content_type": "image/jpeg"
+    }
+  ],
+  "count": 3,
+  "downloaded": 3
+}

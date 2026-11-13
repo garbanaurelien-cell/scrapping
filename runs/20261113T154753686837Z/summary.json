@@ -1,0 +1,15 @@
+{
+  "api_reached": true,
+  "api_status": 200,
+  "response_bytes": 425,
+  "url": "https://mangaplus.shueisha.co.jp/viewer/1001572",
+  "results": [
+    {
+      "target_status": 200,
+      "type": "markdown",
+      "content_characters": 5,
+      "task_id": "7527034517651988481"
+    }
+  ],
+  "note": "HTTP success confirms a response, not complete page extraction. Content was not analysed."
+}

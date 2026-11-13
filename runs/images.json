@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "url": "https://mangaplus.shueisha.co.jp/viewer/1000486",
+  "mode": "browser",
+  "discovered": 4,
+  "images": [
+    {
+      "url": "https://mangaplus.shueisha.co.jp/img/web_logo_190118_light.c773f9e9.png",
+      "alt": "logo"
+    },
+    {
+      "url": "https://mangaplus.shueisha.co.jp/img/img_vertical@4x.7dd96d48.png",
+      "alt": ""
+    },
+    {
+      "url": "https://cdn-apac.onetrust.com/logos/static/ot_company_logo.png",
+      "alt": "Company Logo"
+    },
+    {
+      "url": "https://cdn-apac.onetrust.com/logos/static/powered_by_logo.svg",
+      "alt": "Powered by Onetrust"
+    }
+  ],
+  "count": 4
+}
